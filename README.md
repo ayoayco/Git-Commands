@@ -35,7 +35,7 @@ Git Commands
 | `git stash` | Stash changes in a dirty working directory |
 | `git stash clear` | Remove all stashed entries |
 
-### Mergin, Rebasing & Cherry Picking
+### Merging, Rebasing & Cherry Picking
 
 | Command | Description |
 | ------- | ----------- |
